@@ -13,7 +13,7 @@ Meals are pulled from [dinner-ideas.md](dinner-ideas.md).
 | Day | Weekday   | Dinner                              |
 |-----|-----------|-------------------------------------|
 | 1   | Monday    | Spaghetti and Meatballs             |
-| 2   | Tuesday   | Tacos                               |
+| 2   | Tuesday   | Tacos (Taco Tuesday)                |
 | 3   | Wednesday | Grilled Hamburgers and Hot Dogs     |
 | 4   | Thursday  | Chicken, Green Beans, and Potatoes  |
 | 5   | Friday    | Don Patron 🌮 (go out)              |
@@ -25,7 +25,7 @@ Meals are pulled from [dinner-ideas.md](dinner-ideas.md).
 | Day | Weekday   | Dinner                              |
 |-----|-----------|-------------------------------------|
 | 8   | Monday    | Bolognaise                          |
-| 9   | Tuesday   | Breakfast for Dinner                |
+| 9   | Tuesday   | Tacos (Taco Tuesday)                |
 | 10  | Wednesday | Sheet-Pan Chicken and Veggies       |
 | 11  | Thursday  | Matza Ball Soup                     |
 | 12  | Friday    | Homemade Pizza 🍕                   |
