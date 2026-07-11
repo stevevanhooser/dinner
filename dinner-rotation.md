@@ -1,7 +1,10 @@
 # 14-Day Family Dinner Rotation
 
-A two-week rotation for family dinners. Each week's **go-out night is Saturday**
-(Don Patron in Week 1, a Restaurant Meal in Week 2). Fridays are pizza night.
+A two-week rotation for family dinners. The week starts on **Monday**.
+
+- **Friday** alternates between going out to Don Patron (Week 1) and homemade
+  pizza at home (Week 2).
+- **Saturday** is always a go-out night (Restaurant Meal).
 
 Meals are pulled from [dinner-ideas.md](dinner-ideas.md).
 
@@ -9,31 +12,32 @@ Meals are pulled from [dinner-ideas.md](dinner-ideas.md).
 
 | Day | Weekday   | Dinner                              |
 |-----|-----------|-------------------------------------|
-| 1   | Saturday  | Don Patron 🌮 (go out)              |
-| 2   | Sunday    | Roast Chicken                       |
-| 3   | Monday    | Tacos                               |
-| 4   | Tuesday   | Spaghetti and Meatballs             |
-| 5   | Wednesday | Grilled Hamburgers and Hot Dogs     |
-| 6   | Thursday  | Chicken, Green Beans, and Potatoes  |
-| 7   | Friday    | Homemade Pizza 🍕                   |
+| 1   | Monday    | Spaghetti and Meatballs             |
+| 2   | Tuesday   | Tacos                               |
+| 3   | Wednesday | Grilled Hamburgers and Hot Dogs     |
+| 4   | Thursday  | Chicken, Green Beans, and Potatoes  |
+| 5   | Friday    | Don Patron 🌮 (go out)              |
+| 6   | Saturday  | Restaurant Meal (go out)            |
+| 7   | Sunday    | Roast Chicken                       |
 
 ## Week 2
 
 | Day | Weekday   | Dinner                              |
 |-----|-----------|-------------------------------------|
-| 8   | Saturday  | Restaurant Meal (go out)            |
-| 9   | Sunday    | Lasagna                             |
-| 10  | Monday    | Breakfast for Dinner                |
-| 11  | Tuesday   | Bolognaise                          |
-| 12  | Wednesday | Sheet-Pan Chicken and Veggies       |
-| 13  | Thursday  | Matza Ball Soup                     |
-| 14  | Friday    | Take-in Pizza                       |
+| 8   | Monday    | Bolognaise                          |
+| 9   | Tuesday   | Breakfast for Dinner                |
+| 10  | Wednesday | Sheet-Pan Chicken and Veggies       |
+| 11  | Thursday  | Matza Ball Soup                     |
+| 12  | Friday    | Homemade Pizza 🍕                   |
+| 13  | Saturday  | Restaurant Meal (go out)            |
+| 14  | Sunday    | Lasagna                             |
 
 ## Anchors
 
-- **Go out — Saturdays:** Don Patron (Week 1), Restaurant Meal (Week 2)
-- **Pizza — Fridays:** Homemade (Week 1), Take-in (Week 2)
+- **Friday:** Don Patron (Week 1) ↔ Homemade Pizza (Week 2)
+- **Saturday:** Go out — Restaurant Meal (both weeks)
 
-Pasta and chicken nights are spread across the two weeks so nothing repeats
-back-to-back. Backup ideas (Stir-Fry, Chili, Soup and Grilled Cheese, Burrito
-Bowls) live in [dinner-ideas.md](dinner-ideas.md) for easy swaps.
+Week 1 has back-to-back go-out nights (Friday Don Patron + Saturday out), by
+design. Pasta and chicken nights are spread across the two weeks so nothing
+repeats back-to-back. Backup ideas (Stir-Fry, Chili, Soup and Grilled Cheese,
+Burrito Bowls) live in [dinner-ideas.md](dinner-ideas.md) for easy swaps.
