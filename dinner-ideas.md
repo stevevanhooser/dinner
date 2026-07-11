@@ -17,14 +17,11 @@ Keep adding here — we'll pull from this list into the 14-day rotation later.
 | Stir-Fry with Rice                 | Homemade | Clean out the veggie drawer    |
 | Sheet-Pan Chicken and Veggies      | Homemade | One-pan cleanup                |
 | Matza Ball Soup                    | Homemade |                                |
+| Breakfast for Dinner               | Homemade | Pancakes, eggs, bacon          |
 | Roast Chicken                      | Homemade | Great for leftovers            |
 | Chili                              | Homemade | Batch-cook, freezes well       |
 | Soup and Grilled Cheese            | Homemade | Easy weeknight                 |
-| Breakfast for Dinner               | Homemade | Pancakes, eggs, bacon          |
 | Burrito Bowls                      | Homemade | Uses taco leftovers            |
-| Pulled Pork                        | Homemade | Slow cooker                    |
-| Meatloaf                           | Homemade | With mashed potatoes           |
-| Pasta Primavera                    | Homemade | Meatless option                |
 
 ## Categories
 
