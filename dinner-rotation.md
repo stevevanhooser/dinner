@@ -14,11 +14,11 @@ Meals are pulled from [dinner-ideas.md](dinner-ideas.md).
 |-----|-----------|-------------------------------------|
 | 1   | Monday    | Spaghetti and Meatballs             |
 | 2   | Tuesday   | Tacos (Taco Tuesday)                |
-| 3   | Wednesday | Grilled Hamburgers and Hot Dogs     |
+| 3   | Wednesday | Lasagna                             |
 | 4   | Thursday  | Chicken, Green Beans, and Potatoes  |
 | 5   | Friday    | Don Patron 🌮 (go out)              |
 | 6   | Saturday  | Restaurant Meal (go out)            |
-| 7   | Sunday    | Roast Chicken                       |
+| 7   | Sunday    | Grilled Hamburgers and Hot Dogs     |
 
 ## Week 2
 
@@ -30,7 +30,7 @@ Meals are pulled from [dinner-ideas.md](dinner-ideas.md).
 | 11  | Thursday  | Matza Ball Soup                     |
 | 12  | Friday    | Homemade Pizza 🍕                   |
 | 13  | Saturday  | Restaurant Meal (go out)            |
-| 14  | Sunday    | Lasagna                             |
+| 14  | Sunday    | Roast Chicken                       |
 
 ## Anchors
 
