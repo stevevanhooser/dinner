@@ -15,7 +15,8 @@ Keep adding here — we'll pull from this list into the 14-day rotation later.
 | Take-in Pizza                      | Takeout  |                                |
 | Don Patron                         | Go Out   | Week 1 Friday tradition        |
 | Stir-Fry with Rice                 | Homemade | Clean out the veggie drawer    |
-| Baked or Grilled Salmon            | Homemade | Serve with rice or veggies     |
+| Sheet-Pan Chicken and Veggies      | Homemade | One-pan cleanup                |
+| Matza Ball Soup                    | Homemade |                                |
 | Roast Chicken                      | Homemade | Great for leftovers            |
 | Chili                              | Homemade | Batch-cook, freezes well       |
 | Soup and Grilled Cheese            | Homemade | Easy weeknight                 |
@@ -24,7 +25,6 @@ Keep adding here — we'll pull from this list into the 14-day rotation later.
 | Pulled Pork                        | Homemade | Slow cooker                    |
 | Meatloaf                           | Homemade | With mashed potatoes           |
 | Pasta Primavera                    | Homemade | Meatless option                |
-| Sheet-Pan Chicken and Veggies      | Homemade | One-pan cleanup                |
 
 ## Categories
 
