@@ -13,7 +13,8 @@ Keep adding here — we'll pull from this list into the 14-day rotation later.
 | Grilled Hamburgers and Hot Dogs    | Grill    | Good for warm evenings         |
 | Homemade Pizza                     | Homemade | Week 2 Friday tradition        |
 | Take-in Pizza                      | Takeout  |                                |
-| Don Patron                         | Go Out   | Week 1 Friday tradition        |
+| Don Patron                         | Go Out   | Family favorite; Week 1 Friday |
+| Restaurant Meal                    | Go Out   | Pick anywhere the family likes |
 | Stir-Fry with Rice                 | Homemade | Clean out the veggie drawer    |
 | Sheet-Pan Chicken and Veggies      | Homemade | One-pan cleanup                |
 | Matza Ball Soup                    | Homemade |                                |
